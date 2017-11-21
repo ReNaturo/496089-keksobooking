@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ренат Салмахаев](https://up.htmlacademy.ru/javascript/11/user/496089).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Ермаков]
 
 ---
 
